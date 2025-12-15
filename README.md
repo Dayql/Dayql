@@ -8,7 +8,7 @@ Passionate about web development, I master modern front-end and back-end technol
 
 * 🌍  I'm based in France
 * ✉️  You can contact me at [dayql.corp@gmail.com](mailto:dayql.corp@gmail.com)
-* 🚀  I'm currently working on [AdonisJS & Inertia](http://adonisjs.com/)
+* 🚀  I'm currently working on [NextJS](https://nextjs.org/), [AdonisJS & Inertia](http://adonisjs.com/)
 * 🧠  I'm currently learning Nuxt, GSAP
 * 👥  I'm looking to collaborate on ambitious projects
 
