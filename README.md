@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dayql
 ==============================================================================================================================
 
-Full-Stack Web Developer
+Software Engineer | Full-Stack
 ------------------------
 
 Passionate about web development, I master modern front-end and back-end technologies. My goal is to build performant, user-friendly, and maintainable applications.
@@ -9,7 +9,6 @@ Passionate about web development, I master modern front-end and back-end technol
 * 🌍  I'm based in France
 * ✉️  You can contact me at [dayql.corp@gmail.com](mailto:dayql.corp@gmail.com)
 * 🚀  I'm currently working on [NextJS](https://nextjs.org/), [AdonisJS & Inertia](http://adonisjs.com/)
-* 🧠  I'm currently learning Nuxt, GSAP
 * 👥  I'm looking to collaborate on ambitious projects
 
 <p align="left">
