@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Dayql
 ==============================================================================================================================
 
-Software Engineer | Full-Stack
+Software Engineer | Full-Stack · DevOps · AI Integration
 ------------------------
 
 Passionate about web development, I master modern front-end and back-end technologies. My goal is to build performant, user-friendly, and maintainable applications.
