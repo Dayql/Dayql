@@ -8,7 +8,6 @@ Passionate about web development and AI, I build performant, user-friendly, and 
 * ✉️  You can contact me at [dql.corp@gmail.com](mailto:dql.corp@gmail.com)
 * 🚀  Currently working on [NextJS](https://nextjs.org/), and AI-powered automation
 * 🤖  Building AI integrations, internal chatbots and automated workflows
-* 👥  I'm looking to collaborate on ambitious projects
 
 ### 🛠️ Stack
 
