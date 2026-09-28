@@ -5,7 +5,7 @@
 Passionate about web development and AI, I build performant, user-friendly, and maintainable applications — from full-stack web apps to AI-powered workflows and process automation.
 
 * 🌍  I'm based in France
-* ✉️  You can contact me at [dql.corp@gmail.com](mailto:dql.corp@gmail.com)
+* ✉️  You can contact me at [lucas@nodevale.com](mailto:lucas@nodevale.com)
 * 🚀  Currently working on [NextJS](https://nextjs.org/), and AI-powered automation
 * 🤖  Building AI integrations, internal chatbots and automated workflows
 
